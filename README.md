@@ -41,3 +41,10 @@ Contributions are welcome! If you'd like to contribute to WhatsApp View Once Byp
 ## Acknowledgements
 
 Special thanks to contributors and open-source libraries used in this project.
+
+## Here is the sample output
+
+![Sample Output 1](Phone1.jpeg)
+![Sample Output 2](Phone2.png)
+![Sample Output 3](Weboutput.png)
+
