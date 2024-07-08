@@ -1,0 +1,27 @@
+{
+	"manifest_version": 3,
+	"name": "WhatsApp View Once Bypass",
+	"version": "1.0",
+	"description": "View and save photos indefinitely on WhatsApp Web that were originally meant to disappear after a single view.",
+	"icons": {
+		"128": "./icons/128.png",
+		"16": "./icons/16.png",
+		"38": "./icons/38.png",
+		"64": "./icons/64.png"
+	},
+	"default_locale": "en",
+	"author": "tharinduxd",
+	"content_scripts": [
+		{
+			"js": ["injector.js"],
+			"matches": ["https://web.whatsapp.com/*"],
+			"run_at": "document_end"
+		}
+	],
+	"web_accessible_resources": [
+		{
+			"matches": ["https://web.whatsapp.com/*"],
+			"resources": ["script.js"]
+		}
+	]
+}
