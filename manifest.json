@@ -10,7 +10,7 @@
 		"64": "./icons/64.png"
 	},
 	"default_locale": "en",
-	"author": "tharinduxd",
+	"author": "Tharindu D Nayanajith",
 	"content_scripts": [
 		{
 			"js": ["injector.js"],
