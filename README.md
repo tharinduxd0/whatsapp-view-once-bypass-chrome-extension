@@ -4,6 +4,11 @@
 
 WhatsApp View Once Bypass is a Chrome extension that enhances WhatsApp Web functionality by allowing users to view and save photos indefinitely, bypassing the app's view once feature.
 
+## Important Update
+Due to a recent security update released by WhatsApp in OCT 2024, the current version of the extension is no longer fully functional. The update has affected the extension’s ability to bypass the view once feature. I am actively working on an updated version that will restore the full functionality.
+
+Please stay tuned for further updates, and thank you for your patience and understanding.
+
 ## Features
 
 - **Override View Once**: View and save photos marked for view once multiple times.
