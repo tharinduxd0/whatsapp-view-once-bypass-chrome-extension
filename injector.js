@@ -1,4 +1,4 @@
-// Polyfill für chrome.runtime.getURL (SOTA für Firefox)
+// Polyfill for chrome.runtime.getURL (SOTA for Firefox)
 const getURL = (typeof chrome !== 'undefined' && chrome.runtime && chrome.runtime.getURL)
   ? chrome.runtime.getURL
   : (typeof browser !== 'undefined' && browser.runtime && browser.runtime.getURL)

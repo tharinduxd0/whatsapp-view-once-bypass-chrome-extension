@@ -29,23 +29,23 @@ Please stay tuned for further updates, and thank you for your patience and under
 
 ## Installation in Firefox
 
-1. **Repository klonen:**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/tharinduxd/whatsapp-view-once-bypass-chrome-extension.git
    ```
 
-2. **Erweiterung in Firefox laden:**
-   - Öffne Firefox und gehe zu `about:debugging#/runtime/this-firefox`.
-   - Klicke auf "Temporätes Add-on laden".
-   - Wähle die Datei `manifest.json` im geklonten Verzeichnis aus.
+2. **Load the extension in Firefox:**
+   - Open Firefox and go to `about:debugging#/runtime/this-firefox`.
+   - Click on "Load Temporary Add-on".
+   - Select the `manifest.json` file from the cloned directory.
 
 ## Usage
 
 Open WhatsApp Web in your Google Chrome browser. Photos marked for view once will now be viewable multiple times and can be downloaded.
 
-## Nutzung in Firefox
+## Usage in Firefox
 
-Öffne WhatsApp Web in deinem Firefox-Browser. Fotos mit "Einmal-Anzeige" können nun mehrfach angesehen und heruntergeladen werden.
+Open WhatsApp Web in your Firefox browser. Photos marked as "view once" can now be viewed and downloaded multiple times.
 
 ## Contributing
 
