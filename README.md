@@ -5,7 +5,7 @@
 WhatsApp View Once Bypass is a Chrome extension that enhances WhatsApp Web functionality by allowing users to view and save photos indefinitely, bypassing the app's view once feature.
 
 ## Important Update
-Due to a recent security update released by WhatsApp in OCT 2024, the current version of the extension is no longer fully functional. The update has affected the extension’s ability to bypass the view once feature. I am actively working on an updated version that will restore the full functionality.
+Due to a recent security update released by WhatsApp in OCT 2024, the current version of the extension is no longer fully functional. The update has affected the extension's ability to bypass the view once feature. I am actively working on an updated version that will restore the full functionality.
 
 Please stay tuned for further updates, and thank you for your patience and understanding.
 
@@ -27,9 +27,25 @@ Please stay tuned for further updates, and thank you for your patience and under
    - Enable Developer mode (toggle switch usually located in the top right corner).
    - Click on "Load unpacked" and select the cloned `whatsapp-view-once-bypass-chrome-extension` directory.
 
+## Installation in Firefox
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/tharinduxd/whatsapp-view-once-bypass-chrome-extension.git
+   ```
+
+2. **Load the extension in Firefox:**
+   - Open Firefox and go to `about:debugging#/runtime/this-firefox`.
+   - Click on "Load Temporary Add-on".
+   - Select the `manifest.json` file from the cloned directory.
+
 ## Usage
 
 Open WhatsApp Web in your Google Chrome browser. Photos marked for view once will now be viewable multiple times and can be downloaded.
+
+## Usage in Firefox
+
+Open WhatsApp Web in your Firefox browser. Photos marked as "view once" can now be viewed and downloaded multiple times.
 
 ## Contributing
 

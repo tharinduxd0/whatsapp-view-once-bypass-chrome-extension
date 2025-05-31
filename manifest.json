@@ -23,5 +23,11 @@
 			"matches": ["https://web.whatsapp.com/*"],
 			"resources": ["script.js"]
 		}
-	]
+	],
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "whatsapp-view-once-bypass@yourdomain.com",
+			"strict_min_version": "109.0"
+		}
+	}
 }
