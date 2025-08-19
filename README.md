@@ -1,4 +1,4 @@
-# WhatsApp View Once Bypass
+# WhatsApp View Once Bypass 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/tharinduxd/whatsapp-view-once-bypass-chrome-extension)
 
